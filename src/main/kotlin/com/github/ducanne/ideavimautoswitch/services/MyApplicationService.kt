@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ducanne.ideavimautoswitch.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ducanne.ideavimautoswitch.MyBundle
 
 class MyApplicationService {
 
